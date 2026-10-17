@@ -56,3 +56,45 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+## Screenshots
+
+### 1. Register (201)
+![Register](screenshots/01-register.png)
+
+### 2. Login (200)
+![Login](screenshots/02-login.png)
+
+### 3. Create product (201)
+![Create product](screenshots/04-create-product.png)
+
+### 4. List products (200)
+![List products](screenshots/GET.png)
+
+### 5. Show one product (200)
+![Show product](screenshots/show_product.png)
+
+### 6. Update product (200)
+![Update product](screenshots/PUT.png)
+
+### 7. Current user (200)
+![Me](screenshots/GET_API.png)
+
+### 8. Validation error (422)
+![Validation error](screenshots/422_unprocessed.png)
+
+### 9. No token (401)
+![No token](screenshots/03-no-token.png)
+
+### 10. Delete product (204)
+![Delete product](screenshots/delete.png)
+
+### 11. Show after delete (404)
+![After delete](screenshots/after_delete.png)
+
+### 12. Logout (204)
+![Logout](screenshots/logout.png)
+
+### 13. Token revoked (401)
+![Token revoked](screenshots/token_revoked.png)
